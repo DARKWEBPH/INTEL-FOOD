@@ -26,5 +26,4 @@
 
  ########################################################################################
 
-Screenshot
-https://github.com/DARKWEBPH/INTEL-FOOD/blob/main/Screenshot.jpg
+
