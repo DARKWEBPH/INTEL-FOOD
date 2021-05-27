@@ -20,6 +20,8 @@
 
         THAT'S ALL. THANK YOU SIR. GODBLESS :)
 
+        Just type -> npm install  -to terminal to run this React Native APP Project.
+
         SU5URUwgUkVBQ1QgTkFUSVZFIFBST0pFQ1QgQ1JFQVRFRCBCWSBNQVJLIE9DQU1QTw==
 
  #############################################################################################
